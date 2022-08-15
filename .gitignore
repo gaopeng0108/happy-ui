@@ -1,2 +1,5 @@
+dist
+doc-site
 .umi
+.umi-production
 node_modules
